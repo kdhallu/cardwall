@@ -1,0 +1,26 @@
+{
+  "name": "cardwall",
+  "version": "1.0.0",
+  "description": "Opensource cardwall tool for task management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdhallu/cardwall.git"
+  },
+  "keywords": [
+    "cardwall",
+    "open",
+    "source",
+    "taskmanagement",
+    "todo"
+  ],
+  "author": "Ketan Dhallu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdhallu/cardwall/issues"
+  },
+  "homepage": "https://github.com/kdhallu/cardwall#readme"
+}
